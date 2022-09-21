@@ -4,3 +4,5 @@ This is just another txt file.
 "The quick brown fox jumps over the lazy dog."
 
 "The lazy dog just lays there."
+
+new text
